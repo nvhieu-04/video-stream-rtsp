@@ -1,0 +1,763 @@
+2022-06-16 16:17:32,272 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-06-16 16:17:34,002 [DEBUG] camera:: Starting thread
+2022-06-16 16:17:34,002 [DEBUG] camera:: Observation started
+2022-06-16 16:17:34,002 [INFO] camera:: Thread started
+2022-06-16 16:17:34,007 [DEBUG] __main__:: Starting server
+2022-06-16 16:17:43,199 [DEBUG] __main__:: Requested /
+2022-06-16 16:17:43,230 [DEBUG] __main__:: Requested last image
+2022-06-16 16:17:43,230 [DEBUG] __main__:: No last image
+2022-06-16 16:17:45,898 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:17:45,916 [DEBUG] __main__:: Starting stream
+2022-06-16 16:17:50,955 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:17:50,970 [DEBUG] __main__:: Starting stream
+2022-06-16 16:17:54,723 [DEBUG] __main__:: Requested capture
+2022-06-16 16:17:54,765 [DEBUG] __main__:: Requested /
+2022-06-16 16:17:54,777 [DEBUG] __main__:: Requested last image
+2022-06-16 16:17:58,433 [DEBUG] __main__:: Starting stream
+2022-06-16 16:17:59,987 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:18:00,002 [DEBUG] __main__:: Starting stream
+2022-06-16 16:18:00,578 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:18:00,595 [DEBUG] __main__:: Starting stream
+2022-06-16 16:18:00,800 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:18:00,813 [DEBUG] __main__:: Starting stream
+2022-06-16 16:18:04,540 [DEBUG] __main__:: Starting stream
+2022-06-16 16:18:05,945 [DEBUG] __main__:: Starting stream
+2022-06-16 16:18:13,686 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:13,720 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:17,066 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:17,111 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:17,123 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:18,431 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:18,474 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:18,487 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:19,000 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:19,040 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:19,052 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:19,407 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:19,455 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:19,469 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:21,668 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:18:21,682 [DEBUG] __main__:: Starting stream
+2022-06-16 16:18:25,745 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:25,788 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:25,801 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:26,470 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:26,510 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:26,526 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:26,951 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:26,993 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:27,006 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:27,298 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:27,337 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:27,353 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:27,669 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:27,710 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:27,726 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:27,861 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:27,901 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:27,916 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:28,192 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:28,233 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:28,251 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:28,549 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:28,590 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:28,605 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:28,921 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:28,969 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:28,983 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:29,278 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:29,322 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:29,336 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:29,459 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:29,500 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:29,516 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:29,649 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:29,691 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:29,704 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:29,846 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:29,888 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:29,902 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:30,218 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:30,255 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:30,270 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:30,551 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:30,593 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:30,610 [DEBUG] __main__:: Requested last image
+2022-06-16 16:18:30,911 [DEBUG] __main__:: Requested capture
+2022-06-16 16:18:30,952 [DEBUG] __main__:: Requested /
+2022-06-16 16:18:30,968 [DEBUG] __main__:: Requested last image
+2022-06-16 16:19:33,253 [DEBUG] __main__:: Requested /
+2022-06-16 16:19:33,288 [DEBUG] __main__:: Requested last image
+2022-06-16 16:19:33,288 [DEBUG] __main__:: No last image
+2022-06-16 16:19:35,414 [DEBUG] __main__:: Requested /
+2022-06-16 16:19:35,430 [DEBUG] __main__:: Requested last image
+2022-06-16 16:19:35,430 [DEBUG] __main__:: No last image
+2022-06-16 16:19:36,084 [DEBUG] __main__:: Requested /
+2022-06-16 16:19:36,100 [DEBUG] __main__:: Requested last image
+2022-06-16 16:19:36,100 [DEBUG] __main__:: No last image
+2022-06-16 16:19:36,589 [DEBUG] __main__:: Requested /
+2022-06-16 16:19:36,606 [DEBUG] __main__:: Requested last image
+2022-06-16 16:19:36,606 [DEBUG] __main__:: No last image
+2022-06-16 16:19:37,085 [DEBUG] __main__:: Requested /
+2022-06-16 16:19:37,099 [DEBUG] __main__:: Requested last image
+2022-06-16 16:19:37,100 [DEBUG] __main__:: No last image
+2022-06-16 16:19:37,302 [DEBUG] __main__:: Requested /
+2022-06-16 16:19:37,315 [DEBUG] __main__:: Requested last image
+2022-06-16 16:19:37,315 [DEBUG] __main__:: No last image
+2022-06-16 16:19:38,980 [DEBUG] __main__:: Requested capture
+2022-06-16 16:20:35,100 [DEBUG] __main__:: Requested /
+2022-06-16 16:20:35,111 [DEBUG] __main__:: Requested last image
+2022-06-16 16:20:35,111 [DEBUG] __main__:: No last image
+2022-06-16 16:20:35,254 [DEBUG] __main__:: Requested /
+2022-06-16 16:20:35,262 [DEBUG] __main__:: Requested last image
+2022-06-16 16:20:35,262 [DEBUG] __main__:: No last image
+2022-06-16 16:20:35,400 [DEBUG] __main__:: Requested /
+2022-06-16 16:20:35,413 [DEBUG] __main__:: Requested last image
+2022-06-16 16:20:35,413 [DEBUG] __main__:: No last image
+2022-06-16 16:20:35,529 [DEBUG] __main__:: Requested /
+2022-06-16 16:20:35,543 [DEBUG] __main__:: Requested last image
+2022-06-16 16:20:35,543 [DEBUG] __main__:: No last image
+2022-06-16 16:20:35,656 [DEBUG] __main__:: Requested /
+2022-06-16 16:20:35,672 [DEBUG] __main__:: Requested last image
+2022-06-16 16:20:35,672 [DEBUG] __main__:: No last image
+2022-06-16 16:20:48,311 [DEBUG] __main__:: Requested /
+2022-06-16 16:20:48,333 [DEBUG] __main__:: Requested last image
+2022-06-16 16:20:48,333 [DEBUG] __main__:: No last image
+2022-06-16 16:20:48,968 [DEBUG] __main__:: Requested /
+2022-06-16 16:20:48,975 [DEBUG] __main__:: Requested last image
+2022-06-16 16:20:48,975 [DEBUG] __main__:: No last image
+2022-06-16 16:20:49,338 [DEBUG] __main__:: Requested /
+2022-06-16 16:20:49,352 [DEBUG] __main__:: Requested last image
+2022-06-16 16:20:49,352 [DEBUG] __main__:: No last image
+2022-06-16 16:20:50,268 [DEBUG] __main__:: Requested capture
+2022-06-16 16:20:58,872 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-06-16 16:21:00,544 [DEBUG] camera:: Starting thread
+2022-06-16 16:21:00,544 [DEBUG] camera:: Observation started
+2022-06-16 16:21:00,544 [INFO] camera:: Thread started
+2022-06-16 16:21:00,557 [DEBUG] __main__:: Starting server
+2022-06-16 16:21:04,871 [DEBUG] __main__:: Requested /
+2022-06-16 16:21:04,911 [DEBUG] __main__:: Requested last image
+2022-06-16 16:21:04,912 [DEBUG] __main__:: No last image
+2022-06-16 16:21:06,360 [DEBUG] __main__:: Requested capture
+2022-06-16 16:22:03,836 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-06-16 16:22:05,492 [DEBUG] camera:: Starting thread
+2022-06-16 16:22:05,493 [DEBUG] camera:: Observation started
+2022-06-16 16:22:05,493 [INFO] camera:: Thread started
+2022-06-16 16:22:05,498 [DEBUG] __main__:: Starting server
+2022-06-16 16:22:12,233 [DEBUG] __main__:: Requested /
+2022-06-16 16:22:12,269 [DEBUG] __main__:: Requested last image
+2022-06-16 16:22:12,270 [DEBUG] __main__:: No last image
+2022-06-16 16:22:13,646 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:22:13,660 [DEBUG] __main__:: Starting stream
+2022-06-16 16:22:19,222 [DEBUG] __main__:: Requested capture
+2022-06-16 16:23:13,467 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-06-16 16:23:15,228 [DEBUG] camera:: Starting thread
+2022-06-16 16:23:15,228 [DEBUG] camera:: Observation started
+2022-06-16 16:23:15,228 [INFO] camera:: Thread started
+2022-06-16 16:23:15,244 [DEBUG] __main__:: Starting server
+2022-06-16 16:23:17,729 [DEBUG] __main__:: Requested /
+2022-06-16 16:23:17,770 [DEBUG] __main__:: Requested last image
+2022-06-16 16:23:17,770 [DEBUG] __main__:: No last image
+2022-06-16 16:23:19,226 [DEBUG] __main__:: Requested capture
+2022-06-16 16:23:27,355 [DEBUG] __main__:: Requested /
+2022-06-16 16:23:27,384 [DEBUG] __main__:: Requested last image
+2022-06-16 16:23:27,385 [DEBUG] __main__:: No last image
+2022-06-16 16:24:09,621 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-06-16 16:24:11,338 [DEBUG] camera:: Starting thread
+2022-06-16 16:24:11,339 [DEBUG] camera:: Observation started
+2022-06-16 16:24:11,339 [INFO] camera:: Thread started
+2022-06-16 16:24:11,345 [DEBUG] __main__:: Starting server
+2022-06-16 16:24:13,002 [DEBUG] __main__:: Requested /
+2022-06-16 16:24:13,020 [DEBUG] __main__:: Requested last image
+2022-06-16 16:24:13,021 [DEBUG] __main__:: No last image
+2022-06-16 16:24:13,874 [DEBUG] __main__:: Requested capture
+2022-06-16 16:24:52,259 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-06-16 16:24:53,955 [DEBUG] camera:: Starting thread
+2022-06-16 16:24:53,955 [DEBUG] camera:: Observation started
+2022-06-16 16:24:53,955 [INFO] camera:: Thread started
+2022-06-16 16:24:53,972 [DEBUG] __main__:: Starting server
+2022-06-16 16:24:57,473 [DEBUG] __main__:: Requested /
+2022-06-16 16:24:57,516 [DEBUG] __main__:: Requested last image
+2022-06-16 16:24:57,517 [DEBUG] __main__:: No last image
+2022-06-16 16:25:01,203 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:25:01,219 [DEBUG] __main__:: Starting stream
+2022-06-16 16:25:02,843 [DEBUG] __main__:: Requested capture
+2022-06-16 16:25:02,888 [DEBUG] __main__:: Requested /
+2022-06-16 16:25:02,903 [DEBUG] __main__:: Requested last image
+2022-06-16 16:25:05,183 [DEBUG] __main__:: Requested /
+2022-06-16 16:25:05,196 [DEBUG] __main__:: Requested last image
+2022-06-16 16:25:05,730 [DEBUG] __main__:: Requested /
+2022-06-16 16:25:05,745 [DEBUG] __main__:: Requested last image
+2022-06-16 16:25:05,886 [DEBUG] __main__:: Requested /
+2022-06-16 16:25:05,899 [DEBUG] __main__:: Requested last image
+2022-06-16 16:25:06,009 [DEBUG] __main__:: Requested /
+2022-06-16 16:25:06,021 [DEBUG] __main__:: Requested last image
+2022-06-16 16:26:25,958 [DEBUG] __main__:: Requested /
+2022-06-16 16:26:25,978 [DEBUG] __main__:: Requested last image
+2022-06-16 16:26:27,905 [DEBUG] __main__:: Requested /
+2022-06-16 16:26:27,932 [DEBUG] __main__:: Requested last image
+2022-06-16 16:26:34,183 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:26:34,194 [DEBUG] __main__:: Starting stream
+2022-06-16 16:27:07,581 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:27:07,596 [DEBUG] __main__:: Starting stream
+2022-06-16 16:27:09,196 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:27:09,211 [DEBUG] __main__:: Starting stream
+2022-06-16 16:27:13,619 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-06-16 16:27:15,397 [DEBUG] camera:: Starting thread
+2022-06-16 16:27:15,397 [DEBUG] camera:: Observation started
+2022-06-16 16:27:15,397 [INFO] camera:: Thread started
+2022-06-16 16:27:15,402 [DEBUG] __main__:: Starting server
+2022-06-16 16:27:16,106 [DEBUG] __main__:: Requested stream page
+2022-06-16 16:27:16,123 [DEBUG] __main__:: Starting stream
+2022-06-16 16:27:17,517 [DEBUG] __main__:: Requested capture
+2022-06-16 16:27:17,570 [DEBUG] __main__:: Requested /
+2022-06-16 16:27:17,592 [DEBUG] __main__:: Requested last image
+2022-06-16 16:27:17,594 [DEBUG] __main__:: Starting stream
+2022-06-16 16:27:28,472 [DEBUG] __main__:: Requested /
+2022-06-16 16:27:28,512 [DEBUG] __main__:: Requested last image
+2022-06-16 16:27:28,513 [DEBUG] __main__:: Starting stream
+2022-06-16 16:36:22,055 [DEBUG] __main__:: Starting server
+2022-06-16 16:36:26,726 [DEBUG] __main__:: Requested /
+2022-06-16 16:36:26,791 [DEBUG] __main__:: Starting stream
+2022-06-16 16:36:26,792 [DEBUG] __main__:: Requested last image
+2022-06-16 16:36:26,793 [DEBUG] __main__:: No last image
+2022-06-16 16:36:35,433 [DEBUG] __main__:: Requested capture
+2022-06-16 16:36:35,488 [DEBUG] __main__:: Requested /
+2022-06-16 16:36:35,507 [DEBUG] __main__:: Starting stream
+2022-06-16 16:36:35,508 [DEBUG] __main__:: Requested last image
+2022-06-16 16:36:53,484 [DEBUG] __main__:: Requested capture
+2022-06-16 16:36:53,533 [DEBUG] __main__:: Requested /
+2022-06-16 16:36:53,551 [DEBUG] __main__:: Requested last image
+2022-06-16 16:36:53,552 [DEBUG] __main__:: Starting stream
+2022-06-16 16:41:22,788 [DEBUG] __main__:: Starting server
+2022-06-16 16:41:25,578 [DEBUG] __main__:: Requested /
+2022-06-16 16:41:25,616 [DEBUG] __main__:: Requested last image
+2022-06-16 16:41:25,617 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:03,592 [DEBUG] __main__:: Starting server
+2022-06-16 16:42:06,086 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:06,104 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:06,105 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:12,572 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:12,585 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:12,586 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:13,189 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:13,203 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:13,204 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:13,403 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:13,419 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:13,420 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:13,570 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:13,583 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:13,584 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:13,721 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:13,735 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:13,736 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:21,237 [DEBUG] __main__:: Starting server
+2022-06-16 16:42:24,121 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:24,146 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:24,149 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:30,387 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:30,425 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:30,426 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:50,889 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:50,901 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:50,901 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:50,901 [DEBUG] __main__:: No last image
+2022-06-16 16:42:51,655 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:51,670 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:51,670 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:51,670 [DEBUG] __main__:: No last image
+2022-06-16 16:42:51,957 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:51,993 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:51,993 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:51,993 [DEBUG] __main__:: No last image
+2022-06-16 16:42:52,125 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:52,140 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:52,140 [DEBUG] __main__:: No last image
+2022-06-16 16:42:52,140 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:52,279 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:52,286 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:52,286 [DEBUG] __main__:: No last image
+2022-06-16 16:42:52,286 [DEBUG] __main__:: Starting stream
+2022-06-16 16:42:52,422 [DEBUG] __main__:: Requested /
+2022-06-16 16:42:52,441 [DEBUG] __main__:: Requested last image
+2022-06-16 16:42:52,441 [DEBUG] __main__:: No last image
+2022-06-16 16:42:52,441 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:39,533 [DEBUG] __main__:: Starting server
+2022-06-16 16:43:40,468 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:40,484 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:40,496 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:40,496 [DEBUG] __main__:: No last image
+2022-06-16 16:43:41,250 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:41,268 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:41,268 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:41,268 [DEBUG] __main__:: No last image
+2022-06-16 16:43:41,496 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:41,506 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:41,506 [DEBUG] __main__:: No last image
+2022-06-16 16:43:41,521 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:41,664 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:41,669 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:41,669 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:41,669 [DEBUG] __main__:: No last image
+2022-06-16 16:43:41,827 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:41,839 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:41,839 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:41,839 [DEBUG] __main__:: No last image
+2022-06-16 16:43:42,003 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:42,014 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:42,014 [DEBUG] __main__:: No last image
+2022-06-16 16:43:42,029 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:42,193 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:42,198 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:42,198 [DEBUG] __main__:: No last image
+2022-06-16 16:43:42,213 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:42,371 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:42,382 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:42,382 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:42,382 [DEBUG] __main__:: No last image
+2022-06-16 16:43:42,564 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:42,591 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:42,591 [DEBUG] __main__:: No last image
+2022-06-16 16:43:42,594 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:42,789 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:42,818 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:42,818 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:42,818 [DEBUG] __main__:: No last image
+2022-06-16 16:43:42,984 [DEBUG] __main__:: Requested /
+2022-06-16 16:43:42,995 [DEBUG] __main__:: Starting stream
+2022-06-16 16:43:43,011 [DEBUG] __main__:: Requested last image
+2022-06-16 16:43:43,011 [DEBUG] __main__:: No last image
+2022-06-16 16:44:22,302 [DEBUG] __main__:: Requested capture
+2022-06-16 16:44:22,358 [DEBUG] __main__:: Requested /
+2022-06-16 16:44:22,375 [DEBUG] __main__:: Starting stream
+2022-06-16 16:44:22,376 [DEBUG] __main__:: Requested last image
+2022-06-16 16:46:44,543 [DEBUG] __main__:: Starting server
+2022-06-16 16:46:47,019 [DEBUG] __main__:: Requested /
+2022-06-16 16:46:47,051 [DEBUG] __main__:: Requested last image
+2022-06-16 16:46:47,051 [DEBUG] __main__:: Starting stream
+2022-06-16 16:46:48,028 [DEBUG] __main__:: Requested /
+2022-06-16 16:46:48,057 [DEBUG] __main__:: Starting stream
+2022-06-16 16:46:48,058 [DEBUG] __main__:: Requested last image
+2022-06-16 16:46:48,716 [DEBUG] __main__:: Requested /
+2022-06-16 16:46:48,719 [DEBUG] __main__:: Starting stream
+2022-06-16 16:46:48,719 [DEBUG] __main__:: Requested last image
+2022-06-16 16:47:56,168 [DEBUG] __main__:: Starting server
+2022-06-16 16:47:58,262 [DEBUG] __main__:: Requested /
+2022-06-16 16:47:58,304 [DEBUG] __main__:: Starting stream
+2022-06-16 16:47:58,306 [DEBUG] __main__:: Requested last image
+2022-06-16 16:47:58,306 [DEBUG] __main__:: No last image
+2022-06-16 16:48:00,082 [DEBUG] __main__:: Requested /
+2022-06-16 16:48:00,099 [DEBUG] __main__:: Starting stream
+2022-06-16 16:48:00,100 [DEBUG] __main__:: Requested last image
+2022-06-16 16:48:00,100 [DEBUG] __main__:: No last image
+2022-06-16 16:48:00,573 [DEBUG] __main__:: Requested /
+2022-06-16 16:48:00,588 [DEBUG] __main__:: Requested last image
+2022-06-16 16:48:00,590 [DEBUG] __main__:: Starting stream
+2022-06-16 16:48:00,590 [DEBUG] __main__:: No last image
+2022-06-16 16:48:08,195 [DEBUG] __main__:: Requested /
+2022-06-16 16:48:08,209 [DEBUG] __main__:: Starting stream
+2022-06-16 16:48:08,211 [DEBUG] __main__:: Requested last image
+2022-06-16 16:48:08,211 [DEBUG] __main__:: No last image
+2022-06-16 16:48:15,152 [DEBUG] __main__:: Starting server
+2022-06-16 16:48:17,679 [DEBUG] __main__:: Requested /
+2022-06-16 16:48:17,702 [DEBUG] __main__:: Starting stream
+2022-06-16 16:48:17,704 [DEBUG] __main__:: Requested last image
+2022-06-16 16:48:17,704 [DEBUG] __main__:: No last image
+2022-06-16 16:48:18,199 [DEBUG] __main__:: Requested /
+2022-06-16 16:48:18,215 [DEBUG] __main__:: Requested last image
+2022-06-16 16:48:18,218 [DEBUG] __main__:: Starting stream
+2022-06-16 16:48:18,218 [DEBUG] __main__:: No last image
+2022-06-16 16:48:18,365 [DEBUG] __main__:: Requested /
+2022-06-16 16:48:18,382 [DEBUG] __main__:: Requested last image
+2022-06-16 16:48:18,383 [DEBUG] __main__:: No last image
+2022-06-16 16:48:18,383 [DEBUG] __main__:: Starting stream
+2022-06-16 16:48:18,517 [DEBUG] __main__:: Requested /
+2022-06-16 16:48:18,532 [DEBUG] __main__:: Starting stream
+2022-06-16 16:48:18,533 [DEBUG] __main__:: Requested last image
+2022-06-16 16:48:18,533 [DEBUG] __main__:: No last image
+2022-06-16 16:48:18,669 [DEBUG] __main__:: Requested /
+2022-06-16 16:48:18,684 [DEBUG] __main__:: Starting stream
+2022-06-16 16:48:18,686 [DEBUG] __main__:: Requested last image
+2022-06-16 16:48:18,686 [DEBUG] __main__:: No last image
+2022-06-16 16:48:18,835 [DEBUG] __main__:: Requested /
+2022-06-16 16:48:18,851 [DEBUG] __main__:: Starting stream
+2022-06-16 16:48:18,852 [DEBUG] __main__:: Requested last image
+2022-06-16 16:48:18,853 [DEBUG] __main__:: No last image
+2022-06-16 16:49:09,498 [DEBUG] __main__:: Requested /
+2022-06-16 16:49:09,503 [DEBUG] __main__:: Requested last image
+2022-06-16 16:49:09,503 [DEBUG] __main__:: Starting stream
+2022-06-16 16:49:09,503 [DEBUG] __main__:: No last image
+2022-06-16 16:49:11,404 [DEBUG] __main__:: Requested /
+2022-06-16 16:49:11,447 [DEBUG] __main__:: Requested last image
+2022-06-16 16:49:11,448 [DEBUG] __main__:: Starting stream
+2022-06-16 16:49:11,449 [DEBUG] __main__:: No last image
+2022-06-16 16:50:49,414 [DEBUG] __main__:: Starting server
+2022-06-16 16:50:53,748 [DEBUG] __main__:: Requested /
+2022-06-16 16:50:55,571 [DEBUG] __main__:: Requested last image
+2022-06-16 16:50:55,572 [DEBUG] __main__:: No last image
+2022-06-16 16:50:58,393 [DEBUG] __main__:: Requested /
+2022-06-16 16:50:59,920 [DEBUG] __main__:: Requested last image
+2022-06-16 16:50:59,922 [DEBUG] __main__:: No last image
+2022-06-16 16:51:44,748 [DEBUG] __main__:: Requested /
+2022-06-16 16:51:46,281 [DEBUG] __main__:: Requested last image
+2022-06-16 16:51:46,282 [DEBUG] __main__:: No last image
+2022-06-16 16:51:57,978 [DEBUG] __main__:: Starting server
+2022-06-16 16:52:01,491 [DEBUG] __main__:: Requested /
+2022-06-16 16:52:01,532 [DEBUG] __main__:: Requested last image
+2022-06-16 16:52:01,533 [DEBUG] __main__:: No last image
+2022-06-16 16:52:01,534 [DEBUG] __main__:: Starting stream
+2022-06-16 16:52:03,316 [DEBUG] __main__:: Requested /
+2022-06-16 16:52:03,331 [DEBUG] __main__:: Requested last image
+2022-06-16 16:52:03,331 [DEBUG] __main__:: No last image
+2022-06-16 16:52:03,332 [DEBUG] __main__:: Starting stream
+2022-06-16 16:52:05,635 [DEBUG] __main__:: Requested capture
+2022-06-16 16:52:05,704 [DEBUG] __main__:: Requested /
+2022-06-16 16:52:05,717 [DEBUG] __main__:: Starting stream
+2022-06-16 16:52:05,718 [DEBUG] __main__:: Requested last image
+2022-06-16 20:32:34,210 [DEBUG] __main__:: Starting server
+2022-06-16 20:32:39,512 [DEBUG] __main__:: Requested /
+2022-06-16 20:32:39,563 [DEBUG] __main__:: Starting stream
+2022-06-16 20:32:39,563 [DEBUG] __main__:: Requested last image
+2022-06-16 20:33:01,448 [DEBUG] __main__:: Requested capture
+2022-06-16 20:33:01,531 [DEBUG] __main__:: Requested /
+2022-06-16 20:33:01,550 [DEBUG] __main__:: Starting stream
+2022-06-16 20:33:01,552 [DEBUG] __main__:: Requested last image
+2022-06-16 20:33:06,378 [DEBUG] __main__:: Requested capture
+2022-06-16 20:33:06,446 [DEBUG] __main__:: Requested /
+2022-06-16 20:33:06,463 [DEBUG] __main__:: Requested last image
+2022-06-16 20:33:06,465 [DEBUG] __main__:: Starting stream
+2022-06-16 20:33:11,650 [DEBUG] __main__:: Requested capture
+2022-06-16 20:33:11,754 [DEBUG] __main__:: Requested /
+2022-06-16 20:33:11,780 [DEBUG] __main__:: Starting stream
+2022-06-16 20:33:11,782 [DEBUG] __main__:: Requested last image
+2022-06-16 20:33:15,860 [DEBUG] __main__:: Requested capture
+2022-06-16 20:33:15,947 [DEBUG] __main__:: Requested /
+2022-06-16 20:33:15,962 [DEBUG] __main__:: Requested last image
+2022-06-16 20:33:15,963 [DEBUG] __main__:: Starting stream
+2022-06-16 20:33:22,035 [DEBUG] __main__:: Requested capture
+2022-06-16 20:33:22,094 [DEBUG] __main__:: Requested /
+2022-06-16 20:33:22,113 [DEBUG] __main__:: Requested last image
+2022-06-16 20:33:22,114 [DEBUG] __main__:: Starting stream
+2022-06-17 22:54:34,786 [DEBUG] __main__:: Starting server
+2022-06-17 22:54:37,966 [DEBUG] __main__:: Requested /
+2022-06-17 22:54:37,988 [DEBUG] __main__:: Starting stream
+2022-06-17 22:54:37,989 [DEBUG] __main__:: Requested last image
+2022-06-17 22:54:37,990 [DEBUG] __main__:: No last image
+2022-06-17 22:54:43,456 [DEBUG] __main__:: Requested /
+2022-06-17 22:54:43,634 [DEBUG] __main__:: Starting stream
+2022-06-17 22:54:43,642 [DEBUG] __main__:: Requested last image
+2022-06-17 22:54:43,651 [DEBUG] __main__:: No last image
+2022-06-17 22:54:48,782 [DEBUG] __main__:: Requested capture
+2022-06-17 22:54:50,371 [DEBUG] __main__:: Requested capture
+2022-06-17 22:54:51,715 [DEBUG] __main__:: Starting stream
+2022-06-17 22:54:52,379 [DEBUG] __main__:: Requested /
+2022-06-17 22:54:52,395 [DEBUG] __main__:: Starting stream
+2022-06-17 22:54:52,396 [DEBUG] __main__:: Requested last image
+2022-06-17 22:54:52,397 [DEBUG] __main__:: No last image
+2022-06-17 22:54:53,053 [DEBUG] __main__:: Requested /
+2022-06-17 22:54:53,079 [DEBUG] __main__:: Starting stream
+2022-06-17 22:54:53,081 [DEBUG] __main__:: Requested last image
+2022-06-17 22:54:53,081 [DEBUG] __main__:: No last image
+2022-06-17 22:56:35,150 [DEBUG] __main__:: Starting server
+2022-06-17 22:56:37,308 [DEBUG] __main__:: Requested /
+2022-06-17 22:56:37,335 [DEBUG] __main__:: Starting stream
+2022-06-17 22:56:37,337 [DEBUG] __main__:: Requested last image
+2022-06-17 22:56:37,338 [DEBUG] __main__:: No last image
+2022-06-17 22:56:43,097 [DEBUG] __main__:: Requested /
+2022-06-17 22:56:43,131 [DEBUG] __main__:: Starting stream
+2022-06-17 22:56:43,132 [DEBUG] __main__:: Requested last image
+2022-06-17 22:56:43,133 [DEBUG] __main__:: No last image
+2022-06-17 22:56:45,511 [DEBUG] __main__:: Requested capture
+2022-06-17 22:56:45,554 [DEBUG] __main__:: Requested /
+2022-06-17 22:56:45,568 [DEBUG] __main__:: Starting stream
+2022-06-17 22:56:45,570 [DEBUG] __main__:: Requested last image
+2022-06-17 22:57:32,639 [DEBUG] __main__:: Starting server
+2022-06-17 22:57:39,525 [DEBUG] __main__:: Requested /
+2022-06-17 22:57:39,559 [DEBUG] __main__:: Starting stream
+2022-06-17 22:57:39,564 [DEBUG] __main__:: Requested last image
+2022-06-17 22:57:46,651 [DEBUG] __main__:: Requested capture
+2022-06-17 22:57:46,749 [DEBUG] __main__:: Requested /
+2022-06-17 22:57:46,765 [DEBUG] __main__:: Requested last image
+2022-06-17 22:57:46,766 [DEBUG] __main__:: Starting stream
+2022-06-17 23:01:35,116 [DEBUG] __main__:: Starting server
+2022-06-17 23:01:39,723 [DEBUG] __main__:: Requested /
+2022-06-17 23:01:39,746 [DEBUG] __main__:: Requested last image
+2022-06-17 23:01:39,748 [DEBUG] __main__:: Starting stream
+2022-06-17 23:02:22,295 [DEBUG] __main__:: Starting server
+2022-06-17 23:02:24,808 [DEBUG] __main__:: Requested /
+2022-06-17 23:02:24,825 [DEBUG] __main__:: Starting stream
+2022-06-17 23:02:24,826 [DEBUG] __main__:: Requested last image
+2022-06-17 23:03:34,023 [DEBUG] __main__:: Requested /
+2022-06-17 23:03:34,040 [DEBUG] __main__:: Requested last image
+2022-06-17 23:03:34,043 [DEBUG] __main__:: Starting stream
+2022-06-17 23:03:48,157 [DEBUG] __main__:: Starting server
+2022-06-17 23:03:49,844 [DEBUG] __main__:: Requested /
+2022-06-17 23:03:49,876 [DEBUG] __main__:: Requested last image
+2022-06-17 23:03:49,878 [DEBUG] __main__:: Starting stream
+2022-06-17 23:04:39,463 [DEBUG] __main__:: Starting server
+2022-06-17 23:04:42,282 [DEBUG] __main__:: Requested /
+2022-06-17 23:04:42,300 [DEBUG] __main__:: Requested last image
+2022-06-17 23:04:42,302 [DEBUG] __main__:: Starting stream
+2022-06-17 23:06:02,309 [DEBUG] __main__:: Requested /
+2022-06-17 23:06:02,328 [DEBUG] __main__:: Starting stream
+2022-06-17 23:06:02,329 [DEBUG] __main__:: Requested last image
+2022-06-17 23:06:07,147 [DEBUG] __main__:: Requested /
+2022-06-17 23:06:07,174 [DEBUG] __main__:: Starting stream
+2022-06-17 23:06:07,176 [DEBUG] __main__:: Requested last image
+2022-06-17 23:08:53,315 [DEBUG] __main__:: Starting server
+2022-06-17 23:09:00,429 [DEBUG] __main__:: Requested /
+2022-06-17 23:09:00,448 [DEBUG] __main__:: Requested last image
+2022-06-17 23:09:00,449 [DEBUG] __main__:: Starting stream
+2022-06-17 23:09:01,225 [DEBUG] __main__:: Requested /
+2022-06-17 23:09:01,239 [DEBUG] __main__:: Starting stream
+2022-06-17 23:09:01,240 [DEBUG] __main__:: Requested last image
+2022-06-17 23:09:20,336 [DEBUG] __main__:: Starting server
+2022-06-17 23:09:25,733 [DEBUG] __main__:: Requested /
+2022-06-17 23:09:25,749 [DEBUG] __main__:: Starting stream
+2022-06-17 23:09:25,750 [DEBUG] __main__:: Requested last image
+2022-06-17 23:11:21,889 [DEBUG] __main__:: Starting server
+2022-06-17 23:11:31,776 [DEBUG] __main__:: Requested /
+2022-06-17 23:11:31,793 [DEBUG] __main__:: Requested last image
+2022-06-17 23:11:31,794 [DEBUG] __main__:: Starting stream
+2022-06-17 23:11:32,471 [DEBUG] __main__:: Requested /
+2022-06-17 23:11:32,491 [DEBUG] __main__:: Requested last image
+2022-06-17 23:11:32,492 [DEBUG] __main__:: Starting stream
+2022-06-17 23:11:32,856 [DEBUG] __main__:: Requested /
+2022-06-17 23:11:32,873 [DEBUG] __main__:: Requested last image
+2022-06-17 23:11:32,875 [DEBUG] __main__:: Starting stream
+2022-06-17 23:12:32,959 [DEBUG] __main__:: Starting server
+2022-06-17 23:12:37,656 [DEBUG] __main__:: Requested /
+2022-06-17 23:12:37,673 [DEBUG] __main__:: Starting stream
+2022-06-17 23:12:37,674 [DEBUG] __main__:: Requested last image
+2022-06-17 23:13:29,245 [DEBUG] __main__:: Requested capture
+2022-06-17 23:13:29,313 [DEBUG] __main__:: Requested /
+2022-06-17 23:13:29,328 [DEBUG] __main__:: Starting stream
+2022-06-17 23:13:29,329 [DEBUG] __main__:: Requested last image
+2022-06-17 23:16:14,578 [DEBUG] __main__:: Starting server
+2022-06-17 23:16:15,256 [DEBUG] __main__:: Requested /
+2022-06-17 23:16:15,276 [DEBUG] __main__:: Starting stream
+2022-06-17 23:16:15,277 [DEBUG] __main__:: Requested last image
+2022-06-17 23:16:17,004 [DEBUG] __main__:: Requested capture
+2022-06-17 23:16:17,074 [DEBUG] __main__:: Requested /
+2022-06-17 23:16:17,088 [DEBUG] __main__:: Starting stream
+2022-06-17 23:16:17,089 [DEBUG] __main__:: Requested last image
+2022-06-17 23:16:23,102 [DEBUG] __main__:: Requested capture
+2022-06-17 23:16:23,172 [DEBUG] __main__:: Requested /
+2022-06-17 23:16:23,188 [DEBUG] __main__:: Starting stream
+2022-06-17 23:16:23,189 [DEBUG] __main__:: Requested last image
+2022-06-17 23:16:25,763 [DEBUG] __main__:: Requested capture
+2022-06-17 23:16:25,838 [DEBUG] __main__:: Requested /
+2022-06-17 23:16:25,853 [DEBUG] __main__:: Starting stream
+2022-06-17 23:16:25,855 [DEBUG] __main__:: Requested last image
+2022-06-17 23:17:12,211 [DEBUG] __main__:: Requested /
+2022-06-17 23:17:12,229 [DEBUG] __main__:: Starting stream
+2022-06-17 23:17:12,230 [DEBUG] __main__:: Requested last image
+2022-06-17 23:17:33,344 [DEBUG] __main__:: Starting server
+2022-06-17 23:17:33,492 [DEBUG] __main__:: Requested /
+2022-06-17 23:17:33,510 [DEBUG] __main__:: Starting stream
+2022-06-17 23:17:33,511 [DEBUG] __main__:: Requested last image
+2022-06-17 23:17:34,820 [DEBUG] __main__:: Requested capture
+2022-06-17 23:17:34,877 [DEBUG] __main__:: Requested /
+2022-06-17 23:17:34,896 [DEBUG] __main__:: Starting stream
+2022-06-17 23:17:34,897 [DEBUG] __main__:: Requested last image
+2022-06-17 23:17:39,253 [DEBUG] __main__:: Requested capture
+2022-06-17 23:17:39,310 [DEBUG] __main__:: Requested /
+2022-06-17 23:17:39,323 [DEBUG] __main__:: Requested last image
+2022-06-17 23:17:39,325 [DEBUG] __main__:: Starting stream
+2022-06-17 23:18:19,574 [DEBUG] __main__:: Starting server
+2022-06-17 23:18:22,591 [DEBUG] __main__:: Requested /
+2022-06-17 23:18:22,609 [DEBUG] __main__:: Starting stream
+2022-06-17 23:18:22,610 [DEBUG] __main__:: Requested last image
+2022-06-17 23:18:26,913 [DEBUG] __main__:: Requested capture
+2022-06-17 23:18:26,978 [DEBUG] __main__:: Requested /
+2022-06-17 23:18:26,992 [DEBUG] __main__:: Starting stream
+2022-06-17 23:18:26,993 [DEBUG] __main__:: Requested last image
+2022-06-17 23:24:04,971 [DEBUG] __main__:: Starting server
+2022-06-17 23:24:09,675 [DEBUG] __main__:: Requested /
+2022-06-17 23:24:11,148 [DEBUG] __main__:: Requested last image
+2022-06-17 23:24:11,249 [DEBUG] __main__:: Starting stream
+2022-06-17 23:24:15,056 [DEBUG] __main__:: Requested /
+2022-06-17 23:24:15,073 [DEBUG] __main__:: Requested last image
+2022-06-17 23:24:15,075 [DEBUG] __main__:: Starting stream
+2022-06-17 23:24:35,053 [DEBUG] __main__:: Requested /
+2022-06-17 23:24:35,067 [DEBUG] __main__:: Requested last image
+2022-06-17 23:24:35,068 [DEBUG] __main__:: Starting stream
+2022-06-17 23:24:48,910 [DEBUG] __main__:: Starting server
+2022-06-17 23:25:16,032 [DEBUG] __main__:: Requested /
+2022-06-17 23:25:16,055 [DEBUG] __main__:: Requested last image
+2022-06-17 23:25:16,056 [DEBUG] __main__:: Starting stream
+2022-06-17 23:25:26,347 [DEBUG] __main__:: Starting server
+2022-06-17 23:25:28,929 [DEBUG] __main__:: Requested /
+2022-06-17 23:25:28,946 [DEBUG] __main__:: Requested last image
+2022-06-17 23:25:28,948 [DEBUG] __main__:: Starting stream
+2022-06-17 23:25:29,600 [DEBUG] __main__:: Requested /
+2022-06-17 23:25:29,616 [DEBUG] __main__:: Requested last image
+2022-06-17 23:25:29,617 [DEBUG] __main__:: Starting stream
+2022-06-17 23:26:56,310 [DEBUG] __main__:: Starting server
+2022-06-17 23:26:58,718 [DEBUG] __main__:: Requested /
+2022-06-17 23:26:58,735 [DEBUG] __main__:: Requested last image
+2022-06-17 23:26:58,736 [DEBUG] __main__:: Starting stream
+2022-06-17 23:26:59,357 [DEBUG] __main__:: Requested /
+2022-06-17 23:26:59,370 [DEBUG] __main__:: Requested last image
+2022-06-17 23:26:59,371 [DEBUG] __main__:: Starting stream
+2022-06-17 23:26:59,546 [DEBUG] __main__:: Requested /
+2022-06-17 23:26:59,559 [DEBUG] __main__:: Requested last image
+2022-06-17 23:26:59,560 [DEBUG] __main__:: Starting stream
+2022-06-17 23:27:01,253 [DEBUG] __main__:: Requested /
+2022-06-17 23:27:01,275 [DEBUG] __main__:: Requested last image
+2022-06-17 23:27:01,277 [DEBUG] __main__:: Starting stream
+2022-06-17 23:27:01,382 [DEBUG] __main__:: Requested /
+2022-06-17 23:27:01,394 [DEBUG] __main__:: Requested last image
+2022-06-17 23:27:01,395 [DEBUG] __main__:: Starting stream
+2022-06-17 23:27:01,520 [DEBUG] __main__:: Requested /
+2022-06-17 23:27:01,532 [DEBUG] __main__:: Requested last image
+2022-06-17 23:27:01,534 [DEBUG] __main__:: Starting stream
+2022-06-17 23:27:01,665 [DEBUG] __main__:: Requested /
+2022-06-17 23:27:01,685 [DEBUG] __main__:: Requested last image
+2022-06-17 23:27:01,686 [DEBUG] __main__:: Starting stream
+2022-06-17 23:27:23,330 [DEBUG] __main__:: Starting server
+2022-06-17 23:27:24,889 [DEBUG] __main__:: Requested /
+2022-06-17 23:27:24,906 [DEBUG] __main__:: Requested last image
+2022-06-17 23:27:24,908 [DEBUG] __main__:: Starting stream
+2022-06-17 23:28:36,186 [DEBUG] __main__:: Requested /
+2022-06-17 23:28:36,201 [DEBUG] __main__:: Starting stream
+2022-06-17 23:28:36,202 [DEBUG] __main__:: Requested last image
+2022-06-17 23:28:39,397 [DEBUG] __main__:: Requested capture
+2022-06-17 23:28:39,466 [DEBUG] __main__:: Requested /
+2022-06-17 23:28:39,481 [DEBUG] __main__:: Requested last image
+2022-06-17 23:28:39,483 [DEBUG] __main__:: Starting stream
+2022-06-18 12:36:08,043 [DEBUG] __main__:: Starting server
+2022-06-18 12:36:12,275 [DEBUG] __main__:: Requested /
+2022-06-18 12:36:12,338 [DEBUG] __main__:: Starting stream
+2022-06-18 12:36:12,341 [DEBUG] __main__:: Requested last image
+2022-06-18 12:36:15,604 [DEBUG] __main__:: Requested /
+2022-06-18 12:36:15,662 [DEBUG] __main__:: Starting stream
+2022-06-18 12:36:15,664 [DEBUG] __main__:: Requested last image
+2022-06-18 12:39:49,386 [DEBUG] __main__:: Starting server
+2022-06-18 12:39:52,703 [DEBUG] __main__:: Requested /
+2022-06-18 12:39:52,755 [DEBUG] __main__:: Requested last image
+2022-06-18 12:39:52,757 [DEBUG] __main__:: Starting stream
+2022-06-18 12:41:33,877 [DEBUG] __main__:: Starting server
+2022-06-18 12:42:31,143 [DEBUG] __main__:: Starting server
+2022-06-18 12:42:34,175 [DEBUG] __main__:: Requested /
+2022-06-18 12:42:34,213 [DEBUG] __main__:: Starting stream
+2022-06-18 12:42:34,216 [DEBUG] __main__:: Requested last image
+2022-06-18 12:43:46,158 [DEBUG] __main__:: Starting server
+2022-06-18 12:43:51,148 [DEBUG] __main__:: Requested /
+2022-06-18 12:43:51,219 [DEBUG] __main__:: Requested last image
+2022-06-18 12:43:51,223 [DEBUG] __main__:: Starting stream
+2022-06-18 12:46:05,572 [DEBUG] __main__:: Starting server
+2022-06-18 12:47:54,856 [DEBUG] __main__:: Requested /
+2022-06-18 12:47:54,894 [DEBUG] __main__:: Starting stream
+2022-06-18 12:47:54,896 [DEBUG] __main__:: Requested last image
+2022-06-18 12:47:55,731 [DEBUG] __main__:: Requested /
+2022-06-18 12:47:55,798 [DEBUG] __main__:: Requested last image
+2022-06-18 12:47:55,804 [DEBUG] __main__:: Starting stream
+2022-06-18 12:48:51,558 [DEBUG] __main__:: Starting server
+2022-06-18 12:48:55,891 [DEBUG] __main__:: Requested /
+2022-06-18 12:48:55,956 [DEBUG] __main__:: Requested last image
+2022-06-18 12:48:55,961 [DEBUG] __main__:: Starting stream
+2022-06-18 12:50:00,048 [DEBUG] __main__:: Requested capture
+2022-06-18 12:50:00,142 [DEBUG] __main__:: Requested /
+2022-06-18 12:50:00,160 [DEBUG] __main__:: Starting stream
+2022-06-18 12:50:00,162 [DEBUG] __main__:: Requested last image
+2022-06-18 13:33:30,281 [DEBUG] __main__:: Starting server
+2022-06-18 13:33:37,039 [DEBUG] __main__:: Requested /
+2022-06-18 13:33:37,101 [DEBUG] __main__:: Starting stream
+2022-06-18 13:33:37,102 [DEBUG] __main__:: Requested last image
+2022-06-18 13:36:23,736 [DEBUG] __main__:: Requested /
+2022-06-18 13:36:23,752 [DEBUG] __main__:: Requested last image
+2022-06-18 13:36:23,755 [DEBUG] __main__:: Starting stream
+2022-06-18 13:50:23,318 [DEBUG] __main__:: Starting server
+2022-06-18 13:50:46,459 [DEBUG] __main__:: Requested /
+2022-06-18 13:50:46,477 [DEBUG] __main__:: Requested /
+2022-06-18 13:50:46,653 [DEBUG] __main__:: Requested last image
+2022-06-18 13:50:46,653 [DEBUG] __main__:: Starting stream
+2022-06-18 13:50:46,901 [DEBUG] __main__:: Starting stream
+2022-06-18 13:50:46,901 [DEBUG] __main__:: Requested last image
+2022-06-18 13:50:52,360 [DEBUG] __main__:: Requested /
+2022-06-18 13:50:52,378 [DEBUG] __main__:: Requested last image
+2022-06-18 13:50:52,380 [DEBUG] __main__:: Starting stream
+2022-06-18 13:57:20,813 [DEBUG] __main__:: Starting server
+2022-06-18 13:57:33,921 [DEBUG] __main__:: Requested /
+2022-06-18 13:57:33,944 [DEBUG] __main__:: Requested last image
+2022-06-18 13:57:33,945 [DEBUG] __main__:: Starting stream
+2022-06-18 13:57:35,044 [DEBUG] __main__:: Requested /
+2022-06-18 13:57:35,058 [DEBUG] __main__:: Requested last image
+2022-06-18 13:57:35,060 [DEBUG] __main__:: Starting stream
+2022-06-18 13:58:44,256 [DEBUG] __main__:: Starting server
+2022-06-18 13:58:59,376 [DEBUG] __main__:: Requested /
+2022-06-18 13:58:59,397 [DEBUG] __main__:: Starting stream
+2022-06-18 13:58:59,397 [DEBUG] __main__:: Requested last image
+2022-06-18 13:59:00,376 [DEBUG] __main__:: Requested /
+2022-06-18 13:59:00,387 [DEBUG] __main__:: Requested last image
+2022-06-18 13:59:00,387 [DEBUG] __main__:: Starting stream
+2022-06-18 14:02:45,665 [DEBUG] __main__:: Starting server
+2022-06-18 14:03:14,988 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:15,006 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:15,007 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:15,936 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:15,951 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:15,952 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:16,328 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:16,344 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:16,346 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:16,480 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:16,496 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:16,498 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:16,635 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:16,652 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:16,653 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:16,778 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:16,794 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:16,795 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:16,923 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:16,937 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:16,938 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:17,147 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:17,161 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:17,163 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:52,106 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:52,118 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:52,134 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:52,318 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:52,342 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:52,342 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:52,912 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:52,920 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:52,936 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:53,053 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:53,072 [DEBUG] __main__:: Requested last image
+2022-06-18 14:03:53,072 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:53,274 [DEBUG] __main__:: Requested /
+2022-06-18 14:03:53,307 [DEBUG] __main__:: Starting stream
+2022-06-18 14:03:53,307 [DEBUG] __main__:: Requested last image
+2022-06-18 14:04:19,322 [DEBUG] __main__:: Requested /
+2022-06-18 14:04:19,338 [DEBUG] __main__:: Requested last image
+2022-06-18 14:04:19,354 [DEBUG] __main__:: Starting stream
+2022-06-18 14:13:56,029 [DEBUG] __main__:: Starting server
+2022-06-18 14:14:51,677 [DEBUG] __main__:: Requested /
+2022-06-18 14:14:51,694 [DEBUG] __main__:: Starting stream
+2022-06-18 14:14:51,695 [DEBUG] __main__:: Requested last image
+2022-06-18 14:14:52,526 [DEBUG] __main__:: Requested /
+2022-06-18 14:14:52,542 [DEBUG] __main__:: Requested last image
+2022-06-18 14:14:52,543 [DEBUG] __main__:: Starting stream
+2022-06-18 14:14:52,894 [DEBUG] __main__:: Requested /
+2022-06-18 14:14:52,910 [DEBUG] __main__:: Requested last image
+2022-06-18 14:14:52,911 [DEBUG] __main__:: Starting stream
+2022-06-18 14:14:53,060 [DEBUG] __main__:: Requested /
+2022-06-18 14:14:53,083 [DEBUG] __main__:: Requested last image
+2022-06-18 14:14:53,084 [DEBUG] __main__:: Starting stream
+2022-06-18 14:14:53,216 [DEBUG] __main__:: Requested /
+2022-06-18 14:14:53,229 [DEBUG] __main__:: Requested last image
+2022-06-18 14:14:53,233 [DEBUG] __main__:: Starting stream
+2022-06-18 14:14:53,387 [DEBUG] __main__:: Requested /
+2022-06-18 14:14:53,403 [DEBUG] __main__:: Starting stream
+2022-06-18 14:14:53,404 [DEBUG] __main__:: Requested last image
+2022-06-18 14:14:53,556 [DEBUG] __main__:: Requested /
+2022-06-18 14:14:53,572 [DEBUG] __main__:: Starting stream
+2022-06-18 14:14:53,573 [DEBUG] __main__:: Requested last image
+2022-06-18 14:15:19,822 [DEBUG] __main__:: Requested /
+2022-06-18 14:15:19,828 [DEBUG] __main__:: Starting stream
+2022-06-18 14:15:19,828 [DEBUG] __main__:: Requested last image
